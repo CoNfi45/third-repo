@@ -1,0 +1,19 @@
+body {
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+    font-size: 11px; /* Размер основного шрифта в <p></p>  */
+    background-color: #95a391; /* Цвет фона веб-страницы */
+    color: #ddf8d6; /* Цвет основного текста */ 
+    font-style: italic;
+      
+}
+h1,h2 {
+    color: #252c25; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+p {
+    text-transform: uppercase;
+    
+  }
